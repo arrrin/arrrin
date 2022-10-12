@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Salabsi</h1>
-<h3 align="left">A passionate Junior student from KMITL</h3>
+<h3 align="left">A computer engineering student from KMITL</h3>
 
 - 📫 Contact ! **autio-auto@hotmail.com**
 
