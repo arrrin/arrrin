@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arin Salabsi</h1>
+<h1 align="center"[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Arin+Salabsi)](https://git.io/typing-svg)</h1>
 <h3 align="left">A computer engineering student from KMITL</h3>
 
 - 📫 Contact ! **autio-auto@hotmail.com**
