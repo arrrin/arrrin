@@ -5,7 +5,10 @@
 
 <p align="left">
 </p>
-
+<h3 align="left">Learning:</h3>
+<p>&sdot;Vue</p>
+<p>&sdot;Docker</p>
+<p>&sdot;AngularJs >>> Angular </p>
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="left">Programming languages:</h2>
 <p align="left"> 
