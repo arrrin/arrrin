@@ -2,7 +2,7 @@
 <h3 align="left">A computer engineering student from KMITL</h3>
 
 - 📫 Contact ! **autio-auto@hotmail.com**
-
+- 📫 Linkedin ! **[autio-auto@hotmail.com](https://www.linkedin.com/in/arin-salabsi-800659249/)**
 <p align="left">
 </p>
 <h3 align="left">Learning & Using :</h3>
