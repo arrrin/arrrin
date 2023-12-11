@@ -2,10 +2,10 @@
 <h3 align="left">A computer engineering student from KMITL</h3>
 
 - 📫 Contact ! **autio-auto@hotmail.com**
-- 📫 Linkedin ! **[autio-auto@hotmail.com](https://www.linkedin.com/in/arin-salabsi-800659249/)**
+- 📱 Linkedin ! **[Arin Salabsi](https://www.linkedin.com/in/arin-salabsi-800659249/)**
 <p align="left">
 </p>
-<h3 align="left">Learning & Using :</h3>
+<h3 align="left">Learning & Using 💻:</h3>
 <p>&sdot; Vue</p>
 <p>&sdot; AngularJs >>> Angular </p>
 <p>&sdot; Agile Development </p>
