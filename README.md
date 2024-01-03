@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 <h3 align="left">Learning & Using 💻:</h3>
-<p>&sdot; Vue</p>
+<p>&sdot; Javascritps </p>
 <p>&sdot; TypeScripts </p>
 <p>&sdot; AngularJs >>> Angular </p>
 <p>&sdot; Agile Development </p>
