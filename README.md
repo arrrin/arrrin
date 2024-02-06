@@ -7,8 +7,8 @@
 <p align="left">
 </p>
 <h3 align="left">Learning & Using 💻:</h3>
-<p>&sdot; Javascritps </p>
-<p>&sdot; TypeScripts </p>
+<p>&sdot; Javascript </p>
+<p>&sdot; Typescript </p>
 <p>&sdot; AngularJs >>> Angular </p>
 <p>&sdot; Agile Development </p>
 <p>&sdot; CI/CD </p>
