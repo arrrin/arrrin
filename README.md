@@ -1,5 +1,5 @@
 # Arin Salapsi
-# Currently Software developer at Knoware learning
+Currently Software developer at Knoware learning
 
 ## Skill
 - System Design
