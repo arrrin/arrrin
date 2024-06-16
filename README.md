@@ -3,13 +3,9 @@ Currently Software developer at Knoware learning
 
 > 📘 Info
 > 
-> Understanding fundatamental
-> System Design
-> Web development
-> Backend Development
-> Basic CICD Pipeline
-> Server Maintenance
-> TOEIC 920
+> Understanding fundatamental, System Design, Web development, Backend Development, Basic CICD Pipeline, Server Maintenance
+- TOEIC 920
+
 
 ## Skill
 
