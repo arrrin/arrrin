@@ -6,9 +6,6 @@ Currently Software developer at Knoware learning
 > Understanding fundatamental, System Design, Web development, Backend Development, Basic CICD Pipeline, Server Maintenance
 - TOEIC 920
 
-
-## Skill
-
 ## Experience
 ### Software developer Knoware learning
 _Since May 2024_
