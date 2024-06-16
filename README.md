@@ -1,6 +1,14 @@
 Arin Salapsi
 # Currently Software developer at Knoware learning
 
+## Skill
+- System Design
+- Web development
+- Backend Development
+- Basic CICD Pipeline
+- Server Maintenance
+- TOEIC 920
+
 ## Experience
 ### Software developer Knoware learning
 _Since May 2024_
@@ -37,7 +45,19 @@ Develop Back office system.
 
 
 ## Education
-### Bachelor of Computer Engineering, 🥇 Second-class honor, King Mongkut's Institute of Technology Ladkrabang
+### Bachelor of Computer Engineering,  King Mongkut's Institute of Technology Ladkrabang
+- Second-class honor
 _April 2024_
+
+**Using & Learning**
+- Hardware & Embed design
+- ReactJS
+- C++ 
+- Springboot
+- Bootstrap
+- HTML & CSS & JS
+- Architecturing System
+
+
 
 
