@@ -10,7 +10,7 @@
 <h3 align="left">Currently develop using 💻:</h3>
 <p>&sdot; Typescript </p>
 <p>&sdot; Angular </p>
-<p>&sdot; Fp </p>
+<p>&sdot; FP </p>
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="left">Programming languages:</h2>
 <p align="left"> 
