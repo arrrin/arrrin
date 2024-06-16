@@ -2,6 +2,7 @@
 Currently Software developer at Knoware learning
 
 ## Skill
+- Understanding fundatamental
 - System Design
 - Web development
 - Backend Development
