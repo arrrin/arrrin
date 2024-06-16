@@ -3,7 +3,7 @@ Arin Salapsi
 
 ## Experience
 ### Software developer Knoware learning
-Since May 2024
+_Since May 2024_
 
 Develop Back office system and centralize company data for scaling
 - Design and develop Frontend, Backend and Database.
@@ -23,7 +23,7 @@ Develop Back office system and centralize company data for scaling
 - Linux
 
 ### Part-time Software developer at Knoware learning
-_August 2023 to _May 2024
+_August 2023 - May 2024_
 
 Develop Back office system.
 - Develop Frontend and Backend.
@@ -39,3 +39,5 @@ Develop Back office system.
 ## Education
 ### Bachelor of Computer Engineering, 🥇 Second-class honor, King Mongkut's Institute of Technology Ladkrabang
 _April 2024_
+
+
