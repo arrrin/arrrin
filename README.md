@@ -1,15 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=27&duration=2000&pause=1000&color=4274F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Arin+Salabsi" alt="Typing SVG" /></a>
-<h3 align="left">A computer engineering student from KMITL</h3>
-<h3 align="left">Software engineering @knoware</h3>
+<h1 align="left">A computer engineering student from KMITL</h1>
+<h2 align="left">Software engineering @knoware</h2>
 
 - 📫 Contact ! **autio-auto@hotmail.com**
 - 📱 Linkedin ! **[Arin Salabsi](https://www.linkedin.com/in/arin-salabsi-800659249/)**
 <p align="left">
 </p>
+
 <h3 align="left">Currently develop using 💻:</h3>
 <p>&sdot; Typescript </p>
 <p>&sdot; Angular </p>
-
+<p>&sdot; Fp </p>
 <h3 align="left">Languages and Tools:</h3>
 <h2 align="left">Programming languages:</h2>
 <p align="left"> 
