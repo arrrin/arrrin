@@ -1,14 +1,17 @@
 # Arin Salapsi
 Currently Software developer at Knoware learning
 
+> 📘 Info
+> 
+> Understanding fundatamental
+> System Design
+> Web development
+> Backend Development
+> Basic CICD Pipeline
+> Server Maintenance
+> TOEIC 920
+
 ## Skill
-- Understanding fundatamental
-- System Design
-- Web development
-- Backend Development
-- Basic CICD Pipeline
-- Server Maintenance
-- TOEIC 920
 
 ## Experience
 ### Software developer Knoware learning
