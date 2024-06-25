@@ -1,10 +1,15 @@
 # Arin Salapsi
-Currently Software developer at Knoware learning
+Currently a Code-Wrangler at Knoware Learning
 
-> 📘 Info
+> 📘 **Info**
 > 
-> Understanding fundatamental, System Design, Web development, Backend Development, Basic CICD Pipeline, Server Maintenance
-- TOEIC 920
+> - Jedi Master of the Fundamentals
+> - System Design Sorcerer
+> - Web Development Wizard
+> - Backend Development Ninja
+> - CI/CD Pipeline Padawan
+> - Server Maintenance Magician
+> - TOEIC 920 (I can English good)
 
 ## Experience
 ### Software developer Knoware learning
