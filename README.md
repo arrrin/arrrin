@@ -1,15 +1,25 @@
 # Arin Salapsi
 Currently Software developer at Knoware learning
 
-> 📘 **Info**
-> 
-> - Jedi apprentice of the Fundamentals
-> - System Design Sorcerer
-> - Web Development Wizard
-> - Backend Development Ninja
-> - CI/CD Pipeline Padawan
-> - Server Maintenance Magician
-> - TOEIC 920 (I can English good)
+## 📘 Quick overview
+
+## What I'm currently learning 📚
+
+- **Diving into Docker:** 
+- **Typescript Enthusiast:** 
+- **Angular Aficionado:** 
+
+### What can I do
+
+- Jedi apprentice of the Fundamentals
+- System Design Sorcerer
+- Web Development Wizard
+- Backend Development Ninja
+- CI/CD Pipeline Padawan
+- Server Maintenance Magician
+- TOEIC 920 (I can English good)
+
+
 
 ## Experience
 ### Software developer Knoware learning
