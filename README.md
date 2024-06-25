@@ -3,7 +3,7 @@ Currently Software developer at Knoware learning
 
 ## 📘 Quick overview
 
-## What I'm currently learning 📚
+### What I'm currently learning 📚
 
 - **Diving into Docker:** 
 - **Typescript Enthusiast:** 
