@@ -1,9 +1,9 @@
 # Arin Salapsi
-Currently a Code-Wrangler at Knoware Learning
+Currently Software developer at Knoware learning
 
 > 📘 **Info**
 > 
-> - Jedi Master of the Fundamentals
+> - Jedi apprentice of the Fundamentals
 > - System Design Sorcerer
 > - Web Development Wizard
 > - Backend Development Ninja
