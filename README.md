@@ -58,7 +58,6 @@ Develop Back office system.
 
 ## Education
 **Bachelor of Computer Engineering,  King Mongkut's Institute of Technology Ladkrabang**
-- Second-class honor
 _April 2024_
 
 **Using & Learning**
