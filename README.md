@@ -5,9 +5,9 @@ Currently Software developer at Knoware learning
 
 ### What I'm currently learning 📚
 
-- **Diving into Docker:** 
-- **Typescript Enthusiast:** 
-- **Angular Aficionado:** 
+- **Docker** 
+- **Svelte**
+- **GSAP**
 
 ### What can I do
 
